@@ -28,4 +28,4 @@ jobs:
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages
-        FOLDER: Users/Neil/Angular/EmployeeRegistry
+        FOLDER: /Users/Neil/AngularFolder/employee-registry-master
